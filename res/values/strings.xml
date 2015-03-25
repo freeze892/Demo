@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">战斗力查询</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_ShowTitle">战斗力查询</string>
+    <string name="edit_entryPlayName">请输入召唤师名称</string>
+    <string name="btn_Query">查询</string>
+    
+    
+    
+    <string-array name="servers">
+        <item>艾欧尼亚</item>
+        <item>祖安</item>
+        <item>诺克萨斯</item>
+    </string-array>
+
+</resources>
